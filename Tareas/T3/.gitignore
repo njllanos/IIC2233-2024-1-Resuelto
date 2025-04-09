@@ -1,0 +1,17 @@
+Enunciado.pdf
+
+data/
+
+tests_publicos/
+
+todos_tests.py
+
+test_solution.py
+
+utilidades.py
+
+__pycache__/
+
+log.md
+
+test_elementos_prohibidos.py

@@ -1,0 +1,13 @@
+Enunciado.pdf
+
+cliente/assets/
+
+servidor/assets/
+
+servidor/_pycache_/
+
+cliente/_pycache_/
+
+cliente/backend/_pycache_/
+
+cliente/frontend/_pycache_/
